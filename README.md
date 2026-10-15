@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @SpagettiFarmer*%!)
+- 👋 Hi, I’m 28gmills
 - 👀 I’m interested in programing and computor science
 - 🌱 I’m currently learning python
-- 📫 Reach me at gmills8510@gmail.com
+- 📫 Reach me at 28gmills@kidsrsu.org
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I started programing at age 8
+- ⚡ Fun fact: 
 
 <!---
 SpagettiFarmer2010/SpagettiFarmer2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
